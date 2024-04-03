@@ -1,0 +1,82 @@
+version: '3.3'
+services:
+  rock-backend:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - 80:80
+    volumes:
+      - ./src:/srv
+      - ./conf/php-dev.ini:/usr/local/etc/php/conf.d/x-dev.ini
+    environment:
+      ENV: local
+      DEV: 1
+      MONGO_HOST: "rock-mongo0:27017,rock-mongo1:27017,rock-mongo2:27017/test?replicaSet=rs0"
+      MONGO_DATABASE: "test"
+      MONGO_COLLECTION: "rockhome"
+      MEMCACHED_HOST: 'memcached:11211'
+      MEMCACHED_LIFETIME: 60
+
+  rock-mongo0:
+     image: mongo:5.0
+     command:
+       sh -c "mongod --bind_ip 0.0.0.0 --replSet rs0"
+     ports:
+       - 27020:27017
+     volumes:
+       - mongodbdata0:/data/db
+
+  rock-mongo1:
+    image: mongo:5.0
+    command:  sh -c "mongod --bind_ip 0.0.0.0 --replSet rs0"
+    ports:
+      - 27021:27017
+    volumes:
+      - mongodbdata1:/data/db
+
+  rock-mongo2:
+    image: mongo:5.0
+    command: sh -c "mongod --bind_ip 0.0.0.0 --replSet rs0"
+    ports:
+      - 27022:27017
+    volumes:
+      - mongodbdata2:/data/db
+
+  mongo-init:
+    image: mongo:5.0
+    depends_on:
+      - rock-mongo0
+      - rock-mongo1
+      - rock-mongo2
+    volumes:
+      - ./conf/mongo:/conf/mongo
+    restart: "no"
+    entrypoint: [ "bash", "/conf/mongo/init-mongo.sh"]
+
+  rock-mongo-express:
+    image: mongo-express:0.54
+    ports:
+      - 8082:8081
+    environment:
+      ME_CONFIG_BASICAUTH_USERNAME: "kecske"
+      ME_CONFIG_BASICAUTH_PASSWORD: "sajt"
+      ME_CONFIG_MONGODB_SERVER: "rock-mongo0"
+    depends_on:
+       - "rock-mongo0"
+    links:
+       - "rock-mongo0"
+    restart: always
+
+networks:
+  default:
+    external:
+      name: rockhome-network
+
+volumes:
+  mongodbdata0:
+    driver: local
+  mongodbdata1:
+    driver: local
+  mongodbdata2:
+    driver: local

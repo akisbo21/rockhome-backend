@@ -1,0 +1,1521 @@
+[
+      {
+        "external_id": "M0000464",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 5666,
+        "settlement": "Medgyesegyháza",
+        "sync_address": 0,
+        "type": "mezőgazdasági",
+        "price": 64500000,
+        "size": 0,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 1,
+        "description": "Békés megye, Medgyesegyháza belterületén, a főúttól 300m-re, a vasútállomástól 500 m-re a település központjától 1.000 m-re helyezkedik el az ingatlan, mely részlegesen közművesített. Az ivóvíz és az elektromos energiahálózatba be van kötve, gáz- és csatornahálózati csatlakozás lehetősége az utcában van. A területek öntözését egy 109 m talpmélységű fúrt kút biztosítja. Az földterület a településen egyedülálló méretű, és kialakítású Francia, fűthető hidrokultúrás termelésre alkalmas növényházzal is rendelkezik. A beton pontalapra felállított tűzi horganyzott acél tartószerkezetű speciális hőszigetelést biztosító dupla fóliával fedett felépítmény komputer vezérelt csepegtetős öntözőrendszer és automata párásító és szellőzőrendszer található. Fűtése egyedi gyártású fűrészporral működő 300 KW-os kazán (+ egy szén-tüzelésű kazán) biztosítja.\n Az ingatlan előre egyeztetett időpontban megtekinthető! (+36 20 969 1437)\n2020. október utáni értékesítés esetén a megrendelt, ill. beültetett palánták értéke külön megállapodás részét képezik. Kiköltözés csak!!! 2021. Jan. 01-után!",
+        "state": "új",
+        "plot": 20000,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994634_4f04ffd9.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22986/p22986899_fbb2ede1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994636_113cc697.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22986/p22986896_7794944d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994637_3b57ba63.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994635_bba10654.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994633_381bbb24.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22986/p22986891_aebd64f1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994638_d43788b2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994639_bc958fd2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994640_56d21218.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994641_0d1c2e6a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994642_37bba6a2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994643_6da2159e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994644_6ae516e0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994645_09f018e4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994647_2545834f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994629_4b0df656.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994612_0f881e50.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994613_eee99927.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994617_f66226ac.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994618_1f59a8c8.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994619_717b2bbe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994621_e8474d92.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994620_797cc5a7.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994622_a0ea0923.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994623_3873557d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994624_bbffd732.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994625_aaa38427.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994626_cdb69309.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994628_88763ee5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22994/p22994648_05021b1d.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H005298",
+        "user_external_id": 268,
+        "user_name": "Békefi István",
+        "user_email": "istvan.bekefi@rockhome.hu",
+        "user_phone": 36203996759,
+        "postal_code": 5661,
+        "settlement": "Újkígyós",
+        "street": "Kis utca",
+        "sync_address": 1,
+        "type": "ház",
+        "price": 12990000,
+        "size": 80,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Szépen felújított családi ház eladó nyugodt környezetben Békés megyében Újkígyóson.\nBékéscsabától mindössze 15 percre eladó egy felújított, 3 szobás összkomfortos családi ház gondozott kerttel, nagy telekkel, melléképülettel és garázzsal.\nAz otthon melegéről gáz - konvektoros fűtés gondoskodik. Tekintse meg kényelmesen MOST az ingatlant a számítógépéről az alábbi linkre kattintva!\nhttps://tinyurl.com/y3bmxl8f \nAz ingatlan megvásárlására Falusi CSOK igénybevető!",
+        "rooms": 3,
+        "state": "jó",
+        "heating": "konvektor",
+        "building": "családiház",
+        "terrace_size": 12,
+        "siting": "DK",
+        "plot": 2815,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955000_f558aad3.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955011_59edef98.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955012_0afa7829.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955013_68f3e794.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955014_daafe60b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955015_ffa001de.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955016_cec2185f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955017_94a8648b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955018_39ca8596.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955019_9beb6754.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955010_53845759.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955009_96bd7612.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955001_13c564fe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955002_f095b59c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955003_3b8bc0e0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955004_b06a1ade.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955005_273640dd.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955006_8e25ff15.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955007_3ddaf92c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22955/p22955008_6473d754.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H005265",
+        "user_external_id": 268,
+        "user_name": "Békefi István",
+        "user_email": "istvan.bekefi@rockhome.hu",
+        "user_phone": 36203996759,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Fövenyes utca",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 10500000,
+        "size": 50,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsabán a Fövenyes utcában négyemeletes téglablokkos társasházban eladó egy 50 nm-es, két szobás 4. emeleti jó állapotban lévő lakás. A szobák parketta burkolatúak, a többi helyiség járólap borítású. Az otthon melegét jó állapotú gáz-konvektorok biztosítják.\nNézd meg otthonról kényelmesen az ingatlant, mintha ott lennél: https://tinyurl.com/yyh66bof",
+        "build_year": 1976,
+        "rooms": 1,
+        "halfrooms": 1,
+        "floor": "emelet",
+        "state": "használt-felújítandó",
+        "heating": "cirkó",
+        "building": "tégla",
+        "sight": "utcai",
+        "siting": "DK",
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947378_fe3895b2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947388_6f32169e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947387_646b78e8.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947386_5ab66940.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947385_aeeb4885.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947384_94eaeb1b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947383_f23adb0f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947382_ae1d315a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947381_e250979c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947389_b05c6013.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947380_08265339.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947379_0c669693.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "T003350",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Korona utca",
+        "sync_address": 1,
+        "type": "telek",
+        "price": 2990000,
+        "size": 824,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 1,
+        "description": "Békés megye, Békéscsaba kertvárosi részén \"Kivett beépítetlen terület\" ELADÓ!\nAz ingatlan a Korona utcán, pár száz méterre az Orosházi úttól, csendes utcában található. \nJelenleg gyümölcsösként hasznosított terület. \nA Rock Home Békéscsabai irodája teljes körű ügyintézéssel áll az eladók és a vevők rendelkezésére!\nA kínálatunkból választott ingatlan finanszírozásához kedvezményes hitel- és lízingkonstrukciókat is kínálunk.\nAdásvételi szerződés megkötéséhez igény szerint megbízható ügyvédi közreműködést biztosítunk, és segítséget nyújtunk az adásvételhez kapcsolódó ügyek intézéséhez is.\nA Rock Home békéscsabai magyar és külföldi ügyfelei részére, eladó ingatlanokat keres.\nHívjon bennünket bizalommal!",
+        "state": "új",
+        "siting": "K",
+        "plot": 824,
+        "utilities": "villany",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947265_7360270a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947267_95709a73.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947268_125e20e8.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947269_205a8c83.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947270_213baa12.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947271_43b13800.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947272_9b603410.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947273_3d4c26bf.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947274_6f465d0e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947266_a752f8e1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947275_71ac52f8.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947276_c987559d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947277_31a58b38.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947278_ab73e3a4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947279_975b99b7.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947280_30da7bb3.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947281_4664e68c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22947/p22947282_60fd3895.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H005158",
+        "user_external_id": 276,
+        "user_name": "Boncz Ákos",
+        "user_email": "akos.boncz@rockhome.hu",
+        "user_phone": 36205721327,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Penza lakótelep",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 19300000,
+        "size": 59,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Ház a tónál... LAKÁS A KÖRÖSNÉL, de még milyen.\nPenza lakótelepen, első emeleti, teljesen és igényesen felújított,\n2 és fél szobás lakás várja új tulajdonosát.\nTavaly új köntöst kapott az egész lakás.\nfiatalosan felújított arculata mellé új villany-, víz-, és fűtésrendszert is kapott.\nÓriási platánok gondoskodnak a lakás árnyékolásáról.\nKis és nagygyermekes családoknak és idősebbeknek is ideális lakóhelyet biztosít.\nKedvelt része a városnak, rövid sétával elérhető óvoda, iskola, játszótér, a strand, orvosi rendelők, üzletek, buszmegálló.Járd be a lakást Rock túrával 3D-ben, mintha már ott lennél‼\n⬇️⬇️⬇️\nhttps://tinyurl.hu/9y33/Az adásvételi szerződés megkötéséhez megbízható ügyvédi közreműködést biztosítunk,\nés az adásvételhez kapcsolódó ügyek intézésében segítséget nyújtunk.Keressen bizalommal!",
+        "build_year": 1968,
+        "rooms": 2,
+        "halfrooms": 1,
+        "floor": "emelet",
+        "state": "jó",
+        "heating": "cirkó",
+        "building": "tégla",
+        "extras": "erkély",
+        "terrace_size": 2,
+        "sight": "utcai",
+        "siting": "NY",
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919777_ba12698f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919787_e1a19d21.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919786_98d01123.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919785_deca1fae.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919784_6b9383cb.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919783_6779ba87.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919782_09b261c6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919781_a05f4562.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919780_0ba26535.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919813_4ac5a869.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919779_6f6fbfbe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919778_971a30c6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22919/p22919788_216244f7.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H005136",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Orosházi út",
+        "sync_address": 1,
+        "type": "ház",
+        "price": 13900000,
+        "size": 90,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsaba, Jamina városrészben eladó egy három szobás, felújításra szoruló családi ház, kis udvarral és kerttel. \nA ház vegyes falazatú, hozzá több tároló helyiség és garázs is tartozik. A kert és az aránylag kis udvar könnyen karban tartható.\nA fűtése gázkonvektorral történik. A közelben iskola, óvoda, boltok, autóbusz-megállóhely.",
+        "build_year": 1930,
+        "rooms": 3,
+        "state": "használt-felújítandó",
+        "heating": "konvektor",
+        "building": "családiház",
+        "siting": "DNY",
+        "plot": 625,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900797_26932219.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900808_18df381e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900807_462e2c60.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900806_82fa465f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900805_00dda500.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900804_ee547f8e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900803_09567fb0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900802_d7c34944.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900801_2ca6fa66.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22913/p22913158_8461734b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900800_65298dbb.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900799_8e375ec9.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900798_2d9e42f6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22900/p22900809_91d6ced5.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004780",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 1068,
+        "settlement": "Budapest VI.",
+        "area": "Diplomatanegyed",
+        "street": "Rippl-Rónai utca",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 88500000,
+        "size": 89,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 2.025,
+        "rentability": 0,
+        "new": 0,
+        "description": "A Rippl Apartment egy olyan egyedi tervezésű és stílusú, melegséget sugárzó 90 négyzetméteres design lakás a belváros legcsendesebb zöldövezeti részén - a Széchényi Fürdő, a Városligeti park, a jégpálya, a Műcsarnok, és a Fővárosi Állat- és Növénykert mellett, ami kényelem, biztonság és közlekedés szempontjából is tökéletes helyen található.\nBudapest legimpozánsabb útjától, az Andrássy úttól és a Hősök terétől egy perc sétára, a felújított M1 metróútvonal mellett helyezkedik el. A beépített-bútorok egyedi tervezésűek – a több személyre kialakított hatalmas design kád, a süllyesztett nagy méretű hálószobai ágy, az egyedi kivitelezésű és tervezésű lakás, a tágas nappali hatalmas ablakok általi kilátásával - mind a kényelmedet szolgálják. Közelben nagykövetségek, éttermek, üzletek. Jól megközelíthető tömegközlekedéssel. A belváros mindössze 10-12 percre séta, autóval kb. 5 perc alatt elérhető.\nA környezet kivételes infrastruktúrája biztosítja a maximális kényelmet a mindennapok vásárlásaihoz, szórakozáshoz, ügyeid intézéséhez egyaránt, mivel a közelben minden megtalálható, ami megkönnyíti életét a mindennapokban.\n           Most szeretnél a lakásban körülnézni? Megteheted akár most is!\nKattints a 3D Rock Tour gombra, és máris beléphetsz!          https://tinyurl.com/y7kcnk68\nCSOK igényelhető vásárlásra és korszerűsítésre! Babaváró és kedvező kamatozású hitelek is igényelhetők, melyek díjmentes ügyintézését vállaljuk. A Rock Home Ingatlan Iroda teljes körű ügyintézéssel áll az eladók és a vevők rendelkezésére! Az adásvételi szerződés megkötéséhez igény szerint megbízható ügyvédi közreműködést biztosítunk, és segítséget nyújtunk az adásvételhez kapcsolódó ügyek intézéséhez is.\n                A lakás előre egyeztetett időpontban személyesen is megtekinthető!",
+        "rooms": 3,
+        "floor": "emelet",
+        "state": "jó",
+        "heating": "cirkó",
+        "building": "tégla",
+        "extras": "különnyíló szobák",
+        "sight": "kertre néz",
+        "siting": "DNY",
+        "utilities": "gáz,víz,villany,csatorna",
+        "lift": "van",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864296_4feac629.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856998_73deec2d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856999_66f42f49.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857000_deaed9f0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857001_4865465b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857002_e8a8650a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857003_ceca2358.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857004_c5b851a9.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857005_3f37da93.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856997_5a6df9c6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22819/p22819466_6d9b4d15.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856987_b81486b5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856988_ee6cd97e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864297_bda9ec80.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856996_64438af0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856995_2f49df44.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856989_06044788.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856990_339f9b69.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856991_7d813fea.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856992_05ba56f0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856993_ef3b02e2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22856/p22856994_ab3a73fe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22857/p22857006_6246120f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/229/22968/p22968344_9a6c7152.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004985",
+        "user_external_id": 268,
+        "user_name": "Békefi István",
+        "user_email": "istvan.bekefi@rockhome.hu",
+        "user_phone": 36203996759,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Felsőnyomás",
+        "sync_address": 1,
+        "type": "ház",
+        "price": 14800000,
+        "size": 80,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 2.025,
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsaba központjától 8 Km-re, a 44 - es főút mellett felújított lakóház, közel 2.000 nm -es telken\nkiváló megközelítéssel eladó. A lakóingatlan 80 nm - es, két szobás, Fürdőszobás, nagy garázzsal.\nA fűtés házközponti vegyes-tüzeléses kazánnal megoldott. A ház kívül - belül igényesen felújított, és beköltözésre készen várja új tulajdonosát. Előre egyeztetett időpontban megtekinthető.",
+        "build_year": 1967,
+        "rooms": 2,
+        "state": "jó",
+        "heating": "házközponti",
+        "building": "családiház",
+        "terrace_size": 16,
+        "siting": "DK",
+        "plot": 1967,
+        "utilities": "villany",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839861_8937c9a6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839865_df235ba1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839864_762c8b4c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839863_e246288c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839862_92d7a0b0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839860_41fbb551.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839859_b366955d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839858_ea651ca7.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839866_6ccee8d7.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22839/p22839857_77a1f68c.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004728",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 5671,
+        "settlement": "Békéscsaba",
+        "sync_address": 0,
+        "type": "ház",
+        "price": 29900000,
+        "size": 180,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 1.8,
+        "rentability": 0,
+        "new": 0,
+        "description": "Békés megye, Békéscsaba belvárosától autóval 8 percre 5+1 szobás dupla komfortos CSALÁDI HÁZ három garázzsal ELADÓ! \nA többgenerációs családi ház, Mezőmegyer elején található 1.647 m2-es telken. Gazdálkodásra is kiváló lehetőség, mivel a ház mögött 4.578m2-es (jelenleg is művelés alatt lévő) belterületi szántó található, és a házzal együtt kedvező áron megvásárolható!!!\nA házban öt szoba, nagy nappali, két konyha-étkező, kamra, nyári konyha, két fürdőszoba, külön WC-k, kazánház és jó állapotú tiszta gazdasági épületek találhatóak. Az otthon melegét gáz-cirkó és vegyestüzelésű kazán fűtés, a meleg víz ellátását villany ill. gázbojler biztosítja. A házhoz közvetlenül kapcsolódik egy \"nyári konyha\". A három garázs közül az egyik szerelő aknával is rendelkezik. /Méretük : 28, -18,  és 12 m2./ A gazdasági részen egy 15 m2-es pince helyezkedik el és egy fúrt-kút, amely az öntözésről gondoskodik.  A telek gondozott, gyümölcsfákkal, cserjékkel telepített. \nAz ház jó elhelyezkedésű, a közelben autóbusz megálló, ABC-áruház, Posta, játszótér és sportpálya is van.\nMost szeretnél a házban körülnézni? Megteheted akár most is! Kattints a 3D Rock Tour gombra, és máris beléphetsz! https://tinyurl.com/y9snfdlj \nCSOK igényelhető vásárlásra és korszerűsítésre! Babaváró és kedvező kamatozású hitelek is igényelhetők, melyek díjmentes ügyintézését vállaljuk. A Rock Home Ingatlan Iroda teljes körű ügyintézéssel áll az eladók és a vevők rendelkezésére! Az adásvételi szerződés megkötéséhez igény szerint megbízható ügyvédi közreműködést biztosítunk, és segítséget nyújtunk az adásvételhez kapcsolódó ügyek intézéséhez is.",
+        "build_year": 1986,
+        "rooms": 5,
+        "halfrooms": 1,
+        "state": "jó",
+        "heating": "cirkó",
+        "building": "családiház",
+        "terrace_size": 14,
+        "siting": "K",
+        "plot": 6225,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801593_05aeb148.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864322_008b9ee0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864323_8eed9dc4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864324_b266f730.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864325_6ff740d0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864326_30373c62.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864327_0fc991b1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801625_0abd7676.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801586_a271d080.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801627_775cf135.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801626_ca78dedc.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801628_61e82b10.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864365_ab81cd18.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801587_b2d3b35e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801591_6bb2718e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801592_668320db.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801585_1df1496c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801584_793b7ffe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801598_d69781c1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801597_03be5221.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801594_8f109c67.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801601_08ff5886.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801602_5ab65123.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801609_268385cc.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801610_44210e8a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801620_f9263a81.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22801/p22801624_72d7c63b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22804/p22804985_39ddacc3.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22804/p22804986_f8071427.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22804/p22804987_45ba3875.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22804/p22804988_c527d163.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864356_f797400e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864357_9a3f0d9c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864358_6c54bf21.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864359_26c382ae.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864360_69169e5c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864361_9921b08f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864362_6c070866.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864363_ae76e8f5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/228/22864/p22864364_47fe62a1.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "T003164",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Jonatán utca",
+        "sync_address": 1,
+        "type": "telek",
+        "price": 1250000,
+        "size": 812,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 9,
+        "rentability": 0,
+        "new": 1,
+        "description": "Békés megye, Békéscsaba Almáskerti ipari park közelében \"Kivett zártkerti művelés alól kivett\" terület (jelenleg gyümölcsös kert) ELADÓ!\nAz ingatlan a Jonatán utcán, pár száz méterre a 44-es nemzetközi főúttól, csendes utcában található. Jelenleg gyümölcsösként hasznosított terület.\nA Rock Home Békéscsabai irodája teljes körű ügyintézéssel áll az eladók és a vevők rendelkezésére!\nA kínálatunkból választott ingatlan finanszírozásához kedvezményes hitel- és lízingkonstrukciókat is kínálunk.\nAdásvételi szerződés megkötéséhez igény szerint megbízható ügyvédi közreműködést biztosítunk, és segítséget nyújtunk az adásvételhez kapcsolódó ügyek intézéséhez is.\nA Rock Home békéscsabai magyar és külföldi ügyfelei részére, eladó ingatlanokat keres.\nHívjon bennünket bizalommal!",
+        "state": "új",
+        "siting": "DK",
+        "plot": 812,
+        "utilities": "villany",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781044_2f9a7f92.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22782/p22782526_8db76b49.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781045_d7316ca2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781046_e6decfb4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781047_73a7397d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781048_0c768412.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781049_59a804f8.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781050_e5e505a4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781051_c50d78d5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781052_e29cf63f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781053_d951c9a4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781054_1a3d1f32.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781055_c88788c4.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781056_20609f13.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781057_2aad64ac.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781058_89812531.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781059_c4f63847.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781060_7aa9ab30.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781061_360e6cbe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781062_92bdfa8c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781063_d6f825a2.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781064_73740a0b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22781/p22781065_3a3e2640.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "M0000423",
+        "user_external_id": 267,
+        "user_name": "Tóth József",
+        "user_email": "jozsef.toth@rockhome.hu",
+        "user_phone": 36209691437,
+        "postal_code": 5609,
+        "settlement": "Csabaszabadi",
+        "street": "Apácai út",
+        "sync_address": 1,
+        "type": "mezőgazdasági",
+        "price": 1250000,
+        "size": 0,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 9,
+        "rentability": 0,
+        "new": 1,
+        "description": "Békés megye, Csabaszabadi közvetlen közelében szántóföld ELADÓ!\nAz ingatlan az Apácai úton a Község jelző táblától pár száz méterre található jelenleg is művelés alatt álló terület. \nA Rock Home Békéscsabai irodája teljes körű ügyintézéssel áll az eladók és a vevők rendelkezésére!\nA kínálatunkból választott ingatlan finanszírozásához kedvezményes hitel- és lízingkonstrukciókat is kínálunk.\nAdásvételi szerződés megkötéséhez igény szerint megbízható ügyvédi közreműködést biztosítunk, és segítséget nyújtunk az adásvételhez kapcsolódó ügyek intézéséhez is.\nA Rock Home békéscsabai  magyar és külföldi ügyfelei részére, eladó ingatlanokat keres.\nHívjon bennünket bizalommal!",
+        "state": "új",
+        "plot": 4020,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763047_ec919850.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763048_75c3c47a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763040_2b609365.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004720",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "sync_address": 0,
+        "type": "ház",
+        "price": 15900000,
+        "size": 117,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 1.4150925,
+        "rentability": 0,
+        "new": 0,
+        "description": "Jaminában eladó 3 + fél szobás  vegyes falazatú családi ház. Hozzá garázs és több melléképület tartozik. Felújítása a mai kor igényei szerint szükséges. A kert könnyen karbantartható. A közelben iskola, óvoda, játszótér, bolt, autóbusz-megállóhely megtalálható.",
+        "build_year": 1957,
+        "rooms": 3,
+        "halfrooms": 1,
+        "state": "átlagos",
+        "heating": "egyéb",
+        "building": "családiház",
+        "siting": "DNY",
+        "plot": 1167,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763195_07d9a173.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763190_264a6869.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22763/p22763196_0abb45d8.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004598",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Andrássy út",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 16000000,
+        "size": 68,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Eladó Békéscsaba belvárosában egy 3. emeleti, 3 szobás lakás. Az ingatlan nemrégiben felújításra került. A nyílászárók műanyagra lettek cserélve. Ezekben a nyílászárókban biztonsági szellőzők vannak beépítve a konvektorok miatt. Az Andrássy út felőli oldalon külső szigetelés van. A konvektorok égéstere cserére került. A biztosíték tábla ki van cserélve, relé után dupla védelemmel van ellátva.\nA lakás elhelyezkedése miatt még nyáron sem melegszik fel túlzott mértékben.\nA belváros valamennyi szolgáltatása pedig néhány perces sétával könnyedén elérhető.\nAjánlom olyan családok részére, akik belváros közeli lakást keresnek, elérhető áron!",
+        "build_year": 1974,
+        "rooms": 3,
+        "floor": "emelet",
+        "state": "jó",
+        "heating": "konvektor",
+        "building": "tégla",
+        "extras": "különnyíló szobák,erkély",
+        "terrace_size": 4,
+        "sight": "utcai",
+        "siting": "DNY",
+        "utilities": "víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22713/p22713327_7990596b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22713/p22713329_db050e99.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004584",
+        "user_external_id": 221,
+        "user_name": "Kovács László",
+        "user_email": "laszlo.kovacs@rockhome.hu",
+        "user_phone": 36204227333,
+        "postal_code": 5661,
+        "settlement": "Újkígyós",
+        "sync_address": 0,
+        "type": "ház",
+        "price": 14000000,
+        "size": 80,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 1.8,
+        "rentability": 0,
+        "new": 0,
+        "description": "„Hússzal ezelőtt érkeztem…” – kb. ennyi perc kell ahhoz, hogy Békéscsabáról Újkígyósra érj, a leendő otthonodba. De ennyi időbe telik az is, hogy Békéscsabán elérj mondjuk Jaminából a Lencsésire. Szerintem ennyi utazást megér egy megfizethető árú, kényelmes ingatlan.Újkígyóson az Újköz utcában található ez a kétgenerációs családi ház.\nFöldszintjén mosóhelyiég, konyha, kamra, nappali szoba van. Félemeleten találjuk a fürdőszobát, külön WC-t, és egy hálószobát. Emeleti részen két félszoba várja a lakóit.\nMelléképületben kapott helyet a gázkazánház, valamint egy külön lakrész (kb 40 nm), melyben fürdőszoba WC-vel, szoba, konyha, kamra van.Mindent leírni hosszú lenne, ezért inkább járd be a házat itt:  https://tinyurl.com/y38nbvflÉs ne feledd Charlie dalát sem: „Vidékre költözöm, a kertem öntözöm…” – itt ezt is megteheted.Falusi CSOK forever!Kérdés esetén, vagy ha megszeretnéd nézni, hív bátran, akár hétvégén is!Ezt a családi házat kizárólag a Rock Home Békéscsaba kínálatában találod meg.\nSzükség esetén bankfüggetlen CSOK és hitelügyintézéssel is segítünk!",
+        "build_year": 1988,
+        "rooms": 2,
+        "halfrooms": 2,
+        "state": "jó",
+        "heating": "kazán",
+        "building": "családiház",
+        "terrace_size": 2,
+        "siting": "DK",
+        "plot": 1016,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709927_86041609.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709928_8a584942.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709929_0cb26c46.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709930_ece2edc7.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709931_d1f1960d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709932_4270c20c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709933_cd9e76aa.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709934_2828b97e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709935_0f89592a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709946_1549570b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709936_5949b25b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709937_e2c087e5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709938_40f7e484.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709939_a4f81545.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709940_86d98add.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709941_4e0f7edb.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709942_3790c3da.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709943_2c4aa88a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709944_a0586d7b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/227/22709/p22709945_4c03940a.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004551",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Bartók Béla út",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 14000000,
+        "size": 48,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Eladó Békéscsaba, Bartók Béla úton egy 2. emeleti 2 szobás lakás. A konyhabútor felújításra került. A fürdőszoba burkolata nemrégiben ki lett cserélve.\n A ház külső szigetelését a közelmúltban újították fel. A nyílászárók műanyagok. A lakás némi csinosítás után azonnal költözhető.\nA közelben a belváros összes szolgáltatása néhány perces sétával könnyedén elérhető.",
+        "build_year": 1980,
+        "rooms": 2,
+        "floor": "emelet",
+        "state": "átlagos",
+        "heating": "házközponti",
+        "building": "panel",
+        "extras": "különnyíló szobák,erkély",
+        "terrace_size": 3,
+        "sight": "utcai",
+        "siting": "DNY",
+        "utilities": "gáz,víz,villany,csatorna",
+        "lift": "van",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681891_c869792c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681892_b3b9271c.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681893_b35de66b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681894_54b14493.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681895_78e0ce15.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681896_22a73636.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/226/22681/p22681897_8fa7390e.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004180",
+        "user_external_id": 221,
+        "user_name": "Kovács László",
+        "user_email": "laszlo.kovacs@rockhome.hu",
+        "user_phone": 36204227333,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Gábor Áron utca",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 13900000,
+        "size": 50,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsabán a Gábor Áron utcában kínálom eladásra ezt a liftes épületben lévő, első emeleti lakást.Szobák külön nyílnak, WC és fürdőszoba szintén külön.\nAblakok műanyagok, bejárati ajtó és villanyvezetékek cserélve. Némi felújítást azért igényel, de egy tisztasági festéssel már lakhatóvá tehető.\nVírus mentes időszakban pár percen belül elérjük a piacot, boltokat, óvodát, iskolát, gyógyszertárat éééééés a cukrászdát. :-)\nA szomszédok rendesek, Taki bácsi, Lenke néni, Julcsi, Vágási Feri, Kutya úr…. mindenki a helyén.Szeretnéd az otthonod kényelméből végignézni ezt a lakást? Itt megteheted:  https://tinyurl.com/y63zfnfxBővebb infókért hívj bátran, akár hétvégén is!\nEzt a lakást csak a Rockhome Békéscsaba kínálatában találod meg.\nSzükség esetén bankfüggetlen CSOK és hitel ügyintézésben is segítünk.",
+        "build_year": 1980,
+        "rooms": 2,
+        "floor": "emelet",
+        "state": "átlagos",
+        "heating": "házközponti egyedi méréssel",
+        "building": "panel",
+        "extras": "különnyíló szobák,erkély",
+        "terrace_size": 6,
+        "sight": "utcai",
+        "siting": "DNY",
+        "utilities": "gáz,víz,villany,csatorna",
+        "lift": "van",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544873_2935ced3.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544874_41869106.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544875_14dacc68.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544876_fb92c367.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544877_71a1550f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544878_fe3edb0d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544879_12a581b1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22544/p22544880_d514d336.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004152",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Máriássy utca",
+        "sync_address": 1,
+        "type": "ház",
+        "price": 7000000,
+        "size": 85,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 2.5714305,
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsaba, Jamina városrészben eladó egy felújításra szoruló, vegyes falazatú családi ház. A környéken iskola, óvoda, bolt, autóbusz-megállóhely megtalálható. A házhoz nagy kert és udvar tartozik. Az ingatlan felújítása és korszerúsítése feltétlen szükséges. A fűtés rendszert korszerűsíteni/ kiépíteni kell. A gáz nincs az ingatlanba bevezetve. A csatlakozási lehetőség az utcán található.",
+        "build_year": 1930,
+        "rooms": 2,
+        "state": "használt-felújítandó",
+        "heating": "egyéb",
+        "building": "családiház",
+        "siting": "DNY",
+        "plot": 894,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22540/p22540206_463ae698.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22537/p22537143_4ce00bf0.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004123",
+        "user_external_id": 219,
+        "user_name": "dr. Kónya Tamás István",
+        "user_email": "tamas.konya@rockhome.hu",
+        "user_phone": 36205136774,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Toldi utca",
+        "sync_address": 1,
+        "type": "lakás",
+        "price": 12000000,
+        "size": 58,
+        "status": "Aktív",
+        "ad_type": "Normál",
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsaba, Orosházi út szomszédságában eladó egy 3. emeleti, 2 szobás tégla építésű lakás. Fekvése szerint csendes, nem hallatszik fel a főút zaja. Rezsi költsége kedvező, közelében pedig boltok, iskola, óvoda, játszótér, autóbusz-megállóhely néhány perces sétával elérhető.\nMinimális ráfordítással egy kis rezsivel rendelkező, kényelmes lakás varázsolható belőle.",
+        "build_year": 1980,
+        "rooms": 2,
+        "floor": "emelet",
+        "state": "átlagos",
+        "heating": "konvektor",
+        "building": "tégla",
+        "extras": "különnyíló szobák,erkély",
+        "terrace_size": 3,
+        "sight": "utcai",
+        "siting": "D",
+        "utilities": "víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526464_ec931970.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526465_70b30ca6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526466_e137bd09.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526467_314b673d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526468_cb796fc3.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22526/p22526666_13d64c8c.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "H004047",
+        "user_external_id": 221,
+        "user_name": "Kovács László",
+        "user_email": "laszlo.kovacs@rockhome.hu",
+        "user_phone": 36204227333,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Orosházi út",
+        "sync_address": 1,
+        "type": "ház",
+        "price": 31860000,
+        "size": 139,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 1.8,
+        "rentability": 0,
+        "new": 0,
+        "description": "Jaminában eladó ez a tégla építésű társasházi rész. \nAz alsó szinten 72 m2, míg a felsőn 67 m2 biztosítja gyermekeinknek a görkorcsolyázási lehetőséget. Tetőtér beépíthető, víz, villany, szennyvíz rákötés előkészítve. \nFalazata B30-as tégla. Ez belülről kapott még egy 3 cm vastag perlit vakolatot és egy simító vakolatot, kívülről pedig szintén egy 3 cm vastag perlit vakolatot és 10 cm vastag Hungarocell hőszigetelést. Így gond nélkül tudjuk megfelelő hosszúságú szegekkel rögzíteni képeinket.\nKülső nyílászárók 6 kamrás műanyagok, melyek hőszigetelt, alumínium redőnyösek. Egy hang sem hallatszik ki, nem tudjuk zavarni szomszédainkat.\nSzaunázási hőfokot és a melegvíz ellátást egy kb. 100 órát üzemelt Radiant cirkó kazán biztosítja. A teljes épület padlófűtéssel rendelkezik. \nA földszinten hálószobát, dolgozószobát, konyhát, kamrát és egy fürdőszobát találunk WC-vel.\nAz emeleti szintre egy korláttal ellátott tölgyfa lépcsőn jutunk.\nItt egy társalgó részt, hálószobát, két gyerekszobát, fürdőszobát+WC-t és a tetőtér feljárót találunk.\nA sufniban 21 m2-es garázs, 7 m2-es nyári konyha és 10 m2-es kamra van. \nAz esetleges megrázó élményt 3 fázis biztosítja.Szeretnéd a foteledben ülve bejárni ezt a házat? Itt megteheted:  https://tinyurl.com/yyexf378Szükség esetén bankfüggetlen CSOK és hitelügyintézéssel is segítünk, költségmentesen.\nHívjon bizalommal, akár hétvégén is!",
+        "build_year": 1990,
+        "rooms": 2,
+        "halfrooms": 3,
+        "state": "jó",
+        "heating": "cirkó",
+        "building": "ikerház",
+        "siting": "ÉNY",
+        "plot": 600,
+        "utilities": "gáz,víz,villany,csatorna",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511709_ab5c826f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511710_f46b7839.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511711_cf45defe.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511712_cb293509.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511713_19aa82d9.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511714_27aa321e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511715_a7e18305.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511716_1988371b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511717_59f23ee5.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511721_1e104ea1.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511722_bf90da77.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511718_0743b9b0.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511719_4e9a237a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/225/22511/p22511720_10b10482.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "external_id": "UZ001405",
+        "user_external_id": 221,
+        "user_name": "Kovács László",
+        "user_email": "laszlo.kovacs@rockhome.hu",
+        "user_phone": 36204227333,
+        "postal_code": 5600,
+        "settlement": "Békéscsaba",
+        "street": "Felsőnyomás",
+        "sync_address": 1,
+        "type": "telek",
+        "price": 110000000,
+        "size": 9697,
+        "status": "Aktív",
+        "ad_type": "Keresztértékesített",
+        "cross_selling_mode": 1,
+        "handed_premium": 1.1454525,
+        "rentability": 0,
+        "new": 0,
+        "description": "Békéscsaba külterületén, a 44-es főút mellett található ez a több célra is alkalmas ipari ingatlan. \nTeljes telekterülete: 9.697 m2.\nA telephelyre a főútról kb. 60 m-es aszfaltozott úton jutunk el.A 340 m2 alapterületű csarnok elejének földszintjén 40 m2-en iroda, közlekedő, WC és kézi raktár található. Az emeleti részén 2 tusoló, 2 WC és öltöző van.\nA csarnok végén kamionok közlekedésére is alkalmas bejáratot alakítottak ki.\nMögötte, a csarnokhoz kapcsolva épült egy 6 m × 3 m-es raktár, mellette tehergépjárművel, kamionnal használható szerelő akna.\nA csarnok 2000-ben épült, B30-as tégla falazatú, beton aljzatú, vasvázas Lindab lemeztetővel. Hossza 34 m, szélessége 10,6 m, belmagassága 4 m. Ipari áram: 3×80 A, mely bővíthető.\nA csarnok baloldali részén, a 44-es főút felőli oldalon kb. 20 m széles betonozott terület van.\nA csarnok mögött 18 m × 10,6 m-es beton placc van, alappal, mely akár be is építhető.A csarnoktól jobbra lévő területen egy 540 m2-es beton placc lett előkészítve egy másik csarnoknak.\nA meglévő és a leendő épületek közt 12 m széles aszfaltozott rész készült el.\nÖsszességében a csarnok körül mintegy 4.000 m2-es aszfaltozott, betonozott terület könnyíti meg a közlekedést.A telephely bejáratától jobbra, de külön bejárattal is rendelkező, 2000-ben épült egyedi stílusú, 250 m2-es kör alakú házat találunk. Jelenleg családi házként funkcionál, de iroda épületnek is alkalmas. Ytong tégla falazatú, mely kapott még 3 cm vastag hőszigetelést, plusz 3 cm vastag falburkolatot is. Műanyag nyílászárók vannak, hőszigetelt fém redőnyökkel. Minden helyiség padlófűtéses. A nappaliban egy csempekályha is szolgáltathatja a meghitt hangulatot. Az épületet jelenleg vegyes tüzelésű kazánnal fűtik. Lehetőség van tartályos gázra átállásra is, a csőrendszer kiépítésre került.\nMinden helyiségben kiépítették a telefon és az internet csatlakozási pontokat. Elektromosság: 3 × 16 A.  Vízellátásról 114 m mély fúrt kút gondoskodik, mely ÁNTSZ által bevizsgált és vízjogi engedéllyel rendelkezik.\nFöldszinti helyiségek: nappali + 2 szoba, konyha + étkező, kamra, fürdőszoba, WC, mosóhelyiség, külön bejáratú kazánház tusolóval.\nEmelet: galéria, szoba, WC.A jelenleg is működő vállalkozás tér- és falburkolatok gyártásával foglalkozik. Az ehhez szükséges géppark szintén megvásárolható, ára külön megegyezés tárgyát képezi.  \nAz ipari terület része 3.400 m2 szántó, és 2.500 m2 erdős terület. Tulajdonos vállalja a vevő költségén a szántó területének kivonását a művelési ágból. A szántó területének kivonásával a telephely közvetlenül a 44-es főútig bővíthető.Vételár 110.000.000-ft, mely nem áfa köteles.\nMegtekintéshez a jelenleg is folyó termelés miatt időpontegyeztetés szükséges!Szeretnéd még otthonról megnézni az iroda épületet? Itt megteheted:  https://tinyurl.com/vrb22lg",
+        "build_year": 2000,
+        "state": "jó",
+        "heating": "egyéb",
+        "siting": "NY",
+        "plot": 9697,
+        "utilities": "víz,villany",
+        "images": {
+          "image": [
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485509_009bd237.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485510_283f5b8b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485511_3ff1e79d.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485512_4188e824.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485513_647f255f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485514_1d5ef03e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485515_5f142494.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485516_1d78ff46.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485517_36b0600a.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485518_121c231e.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485519_ae5c3b1b.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485520_58cd0a6f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485521_4d91c581.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485522_80c9785f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485523_c0370113.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485524_a9900ff6.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485525_eeeba9ae.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485526_93f651dd.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485527_cd9d567f.jpg"
+            },
+            {
+              "src": "https://prod.rockhome.hu/publicpic/ingatlan/224/22485/p22485528_5273c787.jpg"
+            }
+          ]
+        }
+      }
+  ]

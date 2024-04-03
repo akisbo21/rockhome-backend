@@ -1,0 +1,7 @@
+{
+    "name": "rockhome/vendor",
+    "require": {
+        "mongodb/mongodb": "1.18",
+        "curl/curl": "2.3"
+    }
+}
