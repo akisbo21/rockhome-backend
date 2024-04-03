@@ -8,7 +8,7 @@ services:
       - 80:80
     volumes:
       - ./src:/srv
-      - ./conf/php-dev.ini:/usr/local/etc/php/conf.d/x-dev.ini
+      - ./conf/php/70-php-dev.ini:/usr/local/etc/php/conf.d/x-dev.ini
     environment:
       ENV: local
       DEV: 1
