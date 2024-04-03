@@ -72,7 +72,7 @@ RUN pecl install mongodb \
 
 COPY ./conf/nginx.vhost /etc/nginx/sites-enabled/default.vhost
 
-COPY conf/apc.ini /usr/local/etc/php/conf.d/zzzz-apc-cli.ini
+COPY ./conf/apc.ini /usr/local/etc/php/conf.d/zzzz-apc-cli.ini
 
 RUN mkdir -p /var/cache/nginx && chmod 777 -R /var/cache/nginx
 
