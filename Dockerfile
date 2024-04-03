@@ -56,7 +56,7 @@ COPY ./conf/php/10-php.ini /usr/local/etc/php/conf.d/10-php.ini
 COPY ./conf/php/30-apcu.ini /usr/local/etc/php/conf.d/30-custom-apcu.ini
 COPY ./conf/php/40-opcache.ini /usr/local/etc/php/conf.d/40-custom-opcache.ini
 COPY ./conf/php/50-session.ini /usr/local/etc/php/conf.d/50-custom-session.ini
-COPY ./conf/php/70-php-dev.ini /usr/70-php-dev.ini
+COPY ./conf/php/70-php-dev.ini /usr/local/etc/php/conf.d/70-php-dev.ini
 COPY ./conf/php/80-phalcon.ini /usr/local/etc/php/conf.d/80-phalcon.ini
 
 
