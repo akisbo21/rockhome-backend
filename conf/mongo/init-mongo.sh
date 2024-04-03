@@ -1,9 +1,6 @@
 #!/bin/bash
-echo "sleeping for 2 seconds"
-sleep 2
 
-echo mongo_setup.sh time now: `date + "%T" `
-mongosh --host rock-mongo0:27017 <<EOF
+mongosh --host rock-mongo0:27017,rock-mongo1:27017,rock-mongo2:27017 <<EOF
 var cfg = {
 	"_id": "rs0",
 	"version": 1,
@@ -11,7 +8,7 @@ var cfg = {
 		{
 			"_id": 0,
 			"host": "rock-mongo0:27017",
-			"priority": 2
+			"priority": 999
 		},
 		{
 			"_id": 1,
